@@ -49,3 +49,16 @@ Agrega todo los archivos y carpetas de donde estas parado en el directorio.
 >git add -a
 
 Agrega todo archivo y carpeta que no este agregado al Area de preparacion no importa en que parte del directorio estes.
+
+---
+[2.4 - Revirtiendo cambios](https://app.ed.team/cursos/git/02/04)
+
+Comando para quitar un archivo en el area de preparacion.
+
+>git restore --staged NombreArchivo
+
+Comando para revertir los cambios.
+
+>git checkut NombreArchivo
+
+
