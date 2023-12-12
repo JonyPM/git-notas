@@ -57,9 +57,11 @@ Comando para quitar un archivo en el area de preparacion.
 
 >git restore --staged NombreArchivo
 
-Comando para revertir los cambios.
+Comando para revertir los cambios,
 
->git checkut NombreArchivo
+>git checkout NombreArchivo
+
+tambien puedes hacer lo mismo con carpetas
 
 ---
 [2.5 - Entendiendo los Commits y el Log](https://app.ed.team/cursos/git/02/05)
@@ -82,3 +84,17 @@ Comando para buscar en los comentarios ciertas palabras claves.
 >git log --grep="PalabraCualquiera"
 
 Saber manejar de maravilla los commit y los log nos ayudara para movernos en los registros de los archivos.
+
+---
+[2.6 - Viajando en el tiempo con Git](https://app.ed.team/cursos/git/02/06)
+
+Con el id de algun comentario guardado puedes regresar en el tiempo a algun archivo que tenias mucho antes.
+
+>git checkout ID
+
+y para regresar a la rama actual solo pones el comando
+
+>git checkout master
+
+---
+Termine la segunda parte del curso ya vamos por menos.
