@@ -33,3 +33,14 @@ Comando para eliminar una rama, (-d = Delete)
 >git branch -d NombreRama 
 
 ---
+[3.3 - Fusionando ramas](https://app.ed.team/cursos/git/03/03)
+
+Comando para ver los cambios de dos ramas (diff = Diferent)
+>git diff NombreRamaSuperior
+
+Comando para anidar dos ramas (merge = Unir)
+>git merge NombreOtraRama
+
+se unira a una con la rama que estas actualmente.
+
+**Consejo de buena practica:** Como buena practica la rama principal nunca debe de estar por encima de las ramas secundarias
