@@ -60,3 +60,7 @@ se unira a una con la rama que estas actualmente.
 **Ejemplo:** fix/title-color (Reparacion en el color del titulo)
 
 **Consejo de buena practica:** La rama TEST solo va a recibir cambios unicamente de la rama DEV
+
+[3.6 - Ejercicio completo con ramas parte 3](https://app.ed.team/cursos/git/03/06)
+
+Si guardas un archivo atrazado puesde que se te cree un archivo ya sea con visual studio o con vim (Si es con vim ocupa el codigo :WP)
