@@ -54,3 +54,9 @@ se unira a una con la rama que estas actualmente.
 
 **Consejo de buena practica:** Las Ramas Temporales deben de tener una nomeclatura clara como, feat o feature (freactura) + / + La pagina que va a crear esa rama como una pagina de contacto para tu portafolio.
 
+[3.5 - Ejercicio completo con ramas parte 2](https://app.ed.team/cursos/git/03/05)
+
+**Consejo de buena practica:** Si te piden reparar un error de las Ramas Principales, como buena practica deberias crear una rama temporal con nomeclatura que se explique que es lo que se esta haciendo.
+**Ejemplo:** fix/title-color (Reparacion en el color del titulo)
+
+**Consejo de buena practica:** La rama TEST solo va a recibir cambios unicamente de la rama DEV
