@@ -44,3 +44,13 @@ Comando para anidar dos ramas (merge = Unir)
 se unira a una con la rama que estas actualmente.
 
 **Consejo de buena practica:** Como buena practica la rama principal nunca debe de estar por encima de las ramas secundarias
+
+---
+[3.4 - Ejercicio completo con ramas parte 1](https://app.ed.team/cursos/git/03/04)
+
+**Consejo de buena practica:** La rama Master es la que debe tener la version que oficialmente se va a mostrar a al cliente.
+
+**Consejo de buena practica:** Debes de trabajar con *Ramas Temporales* (que despues de usar las se tendran que eliminar), la rama principal, test y dev seran ramas que nunca vas a tocar, eliminar o trabajar en ellas (Solo serviran como un respaldo).
+
+**Consejo de buena practica:** Las Ramas Temporales deben de tener una nomeclatura clara como, feat o feature (freactura) + / + La pagina que va a crear esa rama como una pagina de contacto para tu portafolio.
+
