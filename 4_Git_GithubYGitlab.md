@@ -29,5 +29,11 @@ Para subir un repositorio desde el escritorio a la nube requieres del nombre de 
 **Push** significa empujar o mandar datos.
 **Fetch** significa jalar o traer informacion.
 
+---
+[4.4 - Dashboard de proyecto en Github](https://app.ed.team/cursos/git/04/04)
+
+**Consejo de buena practica:**Recomiendo que subas todas las ramas de tu terminal a GitHub.
+
+>git push origin NombreRama
 
 
