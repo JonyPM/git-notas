@@ -36,4 +36,17 @@ Para subir un repositorio desde el escritorio a la nube requieres del nombre de 
 
 >git push origin NombreRama
 
+---
+[4.5 - Sincronizando y mezclando ramas](https://app.ed.team/cursos/git/04/05)
+
+Este comando tambien sirve para actualizar los origin de la nube con las ramas locales.
+>git push origin NombreRama
+
+Podemos agregar cambios de una rama a otras ramas en git solicitando un pull requests.
+
+Este comando sirve para buscar los cambios de la nube a la terminal.
+>git fetch 
+
+Este comando sirve para acutalizar los cambios de la nube a la terminal.
+>git pull origin NombreRama
 
