@@ -39,7 +39,9 @@ Para subir un repositorio desde el escritorio a la nube requieres del nombre de 
 ---
 [4.5 - Sincronizando y mezclando ramas](https://app.ed.team/cursos/git/04/05)
 
-Este comando tambien sirve para actualizar los origin de la nube con las ramas locales.
+Este comando tambien sirve para act---
+4.6 - Ignorando archivos y clonando repositorios
+ualizar los origin de la nube con las ramas locales.
 >git push origin NombreRama
 
 Podemos agregar cambios de una rama a otras ramas en git solicitando un pull requests.
@@ -49,4 +51,36 @@ Este comando sirve para buscar los cambios de la nube a la terminal.
 
 Este comando sirve para acutalizar los cambios de la nube a la terminal.
 >git pull origin NombreRama
+
+---
+[4.6 - Ignorando archivos y clonando repositorios](https://app.ed.team/cursos/git/04/06)
+
+Tipo de archivo de git: 
+>.gitignore
+
+Puedes agregar nombres de *archivos* o de *carpetas* en el archivo .gitignore para que git lo ignore, Nota: si ya seguia el archivo debes de eliminar el **Cache**.
+
+**Consejo**: si guardas el archivo con 
+>git commit 
+
+se te desplegara otra interfas, si le das a la tecla (i) podras escribir ese nuevo commit, despues darle la tecla (Esc) y (WQ) para salir y guardar los cambios.
+
+La palabra **Clonar** se utiliza cuando se copia un repositorio a una nueva computadora.
+
+Comando para clonar un repositorio
+>git clone CopiaDirectorio
+
+Si algun motivo el comando Fetch no te jala los suficientes datos de la nube puedes utilizar este comando.
+>git ls-remote
+
+creara un listado de lo que tiene la nube y no ten tu computadora.
+
+despues de saber que ramas estan listadas en el remote puedes ocupar este comando para verlas todos
+>git branch -a
+
+
+Para saber los datos de todas las ramas de un directorio puedes ocupar este comando
+>git fetch --all
+
+---
 
