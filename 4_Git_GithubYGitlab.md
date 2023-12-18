@@ -82,5 +82,8 @@ despues de saber que ramas estan listadas en el remote puedes ocupar este comand
 Para saber los datos de todas las ramas de un directorio puedes ocupar este comando
 >git fetch --all
 
----
+Video que me ayudo a incorporar git bash al editor de codigo Visual Studio Code:
 
+[Instalación e Incorporación de Git Bash en Visual Studio Code](https://www.youtube.com/watch?v=eQ84h0Eau9I&list=PLIfxGB0e49nKIQk70V7967I0nVLKsD5SN&index=1)
+
+--- 
