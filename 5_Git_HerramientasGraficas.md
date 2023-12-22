@@ -11,10 +11,28 @@ Instala Github desktop y lo configura
 
 Se vieron estos comandos en el video 
 >git switch test
+
 >git merge dev
+
 >git push origin test
+
 >git switch master
+
 >git merge test
+
 >git push origin master
 
+[5.3 - Manejando repositorios con GitHub Desktop parte 2](https://app.ed.team/cursos/git/05/03)
+
+Crea una nueva rama (fix/readme) en la interfaz de github
+>git branch -c fix/readme
+
+Acutaliza los datos
+>git fetch
+
+Empuja los datos de la nube a la terminal
+>git pull origin dev
+
+Elimina la carpeta
+>git branch -d fix/readme
 
