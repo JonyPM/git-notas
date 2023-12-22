@@ -44,3 +44,4 @@ instalacion de gitkraken
 Crea una nueva rama (feature/about-page) en la interfaz grafica de gitkraken y lo elimina
 
 ---
+[5.5 - Visual studio code y Git](https://app.ed.team/cursos/git/05/05)
