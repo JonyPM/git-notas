@@ -36,3 +36,11 @@ Empuja los datos de la nube a la terminal
 Elimina la carpeta
 >git branch -d fix/readme
 
+---
+[5.4 - Manejando-repositorios con GitKraken](https://app.ed.team/cursos/git/05/04)
+
+instalacion de gitkraken 
+
+Crea una nueva rama (feature/about-page) en la interfaz grafica de gitkraken y lo elimina
+
+---
