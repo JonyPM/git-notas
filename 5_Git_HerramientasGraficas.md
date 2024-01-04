@@ -47,3 +47,21 @@ Crea una nueva rama (feature/about-page) en la interfaz grafica de gitkraken y l
 [5.5 - Visual studio code y Git](https://app.ed.team/cursos/git/05/05)
 
 Instalacion de una extencion en visual llamada gitlens pro (trial) que ocupa la misma interfaz grafica de gitkraken
+
+---
+[5.6 - Tips adicionales de git y Github](https://app.ed.team/cursos/git/05/06)
+
+Comando para generar etiquetas en una rama, comunmente se utilizan para colocarle la version a una rama, ejemplo : git tag v1.0.1
+>git tag NombreTag 
+
+y para subirlo a github se utiliza el comando 
+>git push origin v1.0.1
+
+ayuda a controlar las versiones con github y poder descargar una version de tu programa en github como archivo zip o tar.gz
+
+Un tip para github es editar directo en la nube oprimiendo . dentro de git
+
+Comando para fucionar(rebase) dos archivos
+>git config pull.rebase false
+
+despues de hacer eso git te dara los dos codigos que se iban a fusionar y tu tendras que elegir que es lo que se va a quedar y cual se va a ir
